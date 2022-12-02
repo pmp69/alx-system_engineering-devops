@@ -1,2 +1,2 @@
 #!/bin/bash
-chdir alx-system_engineering-devops
+chdir -
